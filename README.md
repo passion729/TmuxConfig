@@ -1,4 +1,9 @@
-## First install TPM
+## Clone config file
+```
+curl -O https://raw.githubusercontent.com/Passion-7/TmuxConfig/main/.tmux.conf
+```
+
+## Install TPM
 Refer to this link: [TPM](https://github.com/tmux-plugins/tpm)
 ### Clone TPM
 ```
