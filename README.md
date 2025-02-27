@@ -1,6 +1,6 @@
 ## Clone config file
 ```
-curl -O https://raw.githubusercontent.com/Passion-7/TmuxConfig/main/.tmux.conf
+curl -O https://raw.githubusercontent.com/passion729/TmuxConfig/main/.tmux.conf
 ```
 
 ## Install TPM
